@@ -12,6 +12,7 @@
 		8A5476391ECBB89A00F5D075 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A5476371ECBB89A00F5D075 /* Main.storyboard */; };
 		8A54763B1ECBB89A00F5D075 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A54763A1ECBB89A00F5D075 /* Assets.xcassets */; };
 		8A54763E1ECBB89A00F5D075 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A54763C1ECBB89A00F5D075 /* LaunchScreen.storyboard */; };
+		8A5476481ECBCCD800F5D075 /* definitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A5476471ECBCCD800F5D075 /* definitionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8A54763A1ECBB89A00F5D075 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8A54763D1ECBB89A00F5D075 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8A54763F1ECBB89A00F5D075 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A5476471ECBCCD800F5D075 /* definitionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = definitionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				8A5476331ECBB89A00F5D075 /* AppDelegate.swift */,
 				8A5476351ECBB89A00F5D075 /* ViewController.swift */,
+				8A5476471ECBCCD800F5D075 /* definitionViewController.swift */,
 				8A5476371ECBB89A00F5D075 /* Main.storyboard */,
 				8A54763A1ECBB89A00F5D075 /* Assets.xcassets */,
 				8A54763C1ECBB89A00F5D075 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A5476481ECBCCD800F5D075 /* definitionViewController.swift in Sources */,
 				8A5476361ECBB89A00F5D075 /* ViewController.swift in Sources */,
 				8A5476341ECBB89A00F5D075 /* AppDelegate.swift in Sources */,
 			);
